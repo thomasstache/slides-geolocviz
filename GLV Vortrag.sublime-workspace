@@ -1,0 +1,1586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"az",
+				"azi"
+			],
+			[
+				"azi",
+				"azimuth"
+			],
+			[
+				"sec",
+				"sectorColl"
+			],
+			[
+				"sy",
+				"SymbolPath"
+			],
+			[
+				"Mark",
+				"MarkerImages"
+			],
+			[
+				"mar",
+				"Marker"
+			],
+			[
+				"reg",
+				"registerOverlay"
+			],
+			[
+				"met",
+				"metaData"
+			],
+			[
+				"drwSe",
+				"drawSectors"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"togg",
+				"toggleScaleControl"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"moz",
+				"moz-flex"
+			],
+			[
+				"flex",
+				"flexbox"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"SITE",
+				"SITE_ID"
+			],
+			[
+				"lt",
+				"LTE"
+			],
+			[
+				"WCD",
+				"WCDMA"
+			],
+			[
+				"Site",
+				"Site_Name"
+			],
+			[
+				"L",
+				"LAC"
+			],
+			[
+				"SECT",
+				"SECTOR_ATTRIBUTES"
+			],
+			[
+				"attri",
+				"attribute"
+			],
+			[
+				"Az",
+				"Azimuth"
+			],
+			[
+				"Sec",
+				"Sector_ID"
+			],
+			[
+				"Sitei",
+				"SiteIDForCell"
+			],
+			[
+				"SiteI",
+				"SiteIDForCell"
+			],
+			[
+				"TRU",
+				"true"
+			],
+			[
+				"SECTOR_FIELDS_",
+				"SECTOR_FIELDS_LTE"
+			],
+			[
+				"sector",
+				"SECTOR_FIELDS_GSM"
+			],
+			[
+				"obj",
+				"Object"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"requ",
+				"requiredFields"
+			],
+			[
+				"attrib",
+				"attributeColumnIndex"
+			],
+			[
+				"cellr",
+				"CellrefParser"
+			],
+			[
+				"Cellref",
+				"CellrefParser"
+			],
+			[
+				"Cell",
+				"CellrefParser"
+			],
+			[
+				"parseN",
+				"parseNumber"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"trim",
+				"trimString"
+			],
+			[
+				"wcd",
+				"WCDMA_RNCID"
+			],
+			[
+				"WC",
+				"WCDMA_CI"
+			],
+			[
+				"gsm_",
+				"GSM_CI"
+			],
+			[
+				"clas",
+				"class	@class"
+			],
+			[
+				"CON",
+				"CONTROLLER"
+			],
+			[
+				"poi",
+				"Point"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"geom",
+				"geometry"
+			],
+			[
+				"selec",
+				"selectedSiteMarker"
+			],
+			[
+				"rend",
+				"renderSiteInfo"
+			],
+			[
+				"sear",
+				"searchText"
+			],
+			[
+				"netw",
+				"radioNetwork"
+			],
+			[
+				"RE",
+				"RESULT"
+			],
+			[
+				"Latl",
+				"LatLngBounds"
+			],
+			[
+				"map",
+				"maps"
+			],
+			[
+				"AXF",
+				"AXFMARKER"
+			],
+			[
+				"overla",
+				"OverlayTypes"
+			],
+			[
+				"by",
+				"byType"
+			],
+			[
+				"GE",
+				"GEOLOCMARKER"
+			],
+			[
+				"Overla",
+				"OverlayTypes"
+			],
+			[
+				"colo",
+				"colorDef"
+			],
+			[
+				"drawMarkers",
+				"drawMarkersM"
+			],
+			[
+				"C",
+				"CANDIDATEMARKER"
+			],
+			[
+				"I",
+				"INDOOR"
+			],
+			[
+				"R",
+				"REFERENCEMARKER"
+			],
+			[
+				"sho",
+				"showOverlaysForType"
+			],
+			[
+				"legend",
+				"legendItem"
+			],
+			[
+				"mark",
+				"markerType"
+			],
+			[
+				"legen",
+				"legendToggleMarkerType"
+			],
+			[
+				"Loca",
+				"LocationCandidate"
+			],
+			[
+				"cle",
+				"clearFileForm"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"isn",
+				"isValidLatLng"
+			],
+			[
+				"ZIN",
+				"ZIndeces"
+			],
+			[
+				"Overl",
+				"OverlayTypes"
+			],
+			[
+				"dele",
+				"deleteOverlaysForType"
+			],
+			[
+				"radio",
+				"radioNetwork"
+			],
+			[
+				"rad",
+				"radioNetwork"
+			],
+			[
+				"sess",
+				"sessionsDirty"
+			],
+			[
+				"sit",
+				"siteList"
+			],
+			[
+				"W",
+				"WCDMA_Cell"
+			],
+			[
+				"GSM",
+				"GSM_BCCH"
+			],
+			[
+				"SE",
+				"SECTOR_ID"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"elm",
+				"ELEMENTTYPE"
+			],
+			[
+				"G",
+				"GEO_LAT"
+			],
+			[
+				"LAT",
+				"GEO_LAT"
+			],
+			[
+				"SITE_",
+				"SITE_NAME"
+			],
+			[
+				"SI",
+				"SITE_ID"
+			],
+			[
+				"ID",
+				"IDX"
+			],
+			[
+				"lat",
+				"LatLng"
+			],
+			[
+				"Sess",
+				"SessionList"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"cols",
+				"colSiteId"
+			],
+			[
+				"Ele",
+				"ElementHandle"
+			],
+			[
+				"colL",
+				"colLng"
+			],
+			[
+				"colS",
+				"colSiteId"
+			],
+			[
+				"Eleme",
+				"ElementTypeName"
+			],
+			[
+				"OPT",
+				"OPT_SILENT"
+			],
+			[
+				"lin",
+				"lineTypeId"
+			],
+			[
+				"parsec",
+				"parseCellrefSiteRecord"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"numRe",
+				"numResults"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"files",
+				"filestats"
+			],
+			[
+				"proc",
+				"processCellrefs"
+			],
+			[
+				"cell",
+				"CELLREF"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"pars",
+				"parsingFct"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"curr",
+				"currentFileType"
+			],
+			[
+				"AX",
+				"AXF"
+			],
+			[
+				"acc",
+				"ACCURACY_v1"
+			],
+			[
+				"l",
+				"loadFile"
+			],
+			[
+				"filei",
+				"fileInputChanged"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dr",
+				"dropZone"
+			],
+			[
+				"setu",
+				"setupDragDrop"
+			],
+			[
+				"hid",
+				"hideDropZone"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"fil",
+				"files"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"moz-box-",
+				"-moz-box-direction:   (property)"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"swa",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"paco",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"perf",
+				"Perforce: Diff"
+			],
+			[
+				"perfo",
+				"Perforce: Diff"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 522.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Thomas/Dropbox/Public/GeoLocViz/index.html",
+		"/D/Thomas/Documents/GitHub/geolocviz/styles/styles.css",
+		"/D/Thomas/Dropbox/Lesestoff/Tooling - jQuery UK.htm",
+		"/D/Thomas/Dropbox/Lesestoff/revealjs/serve.bat",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/views/settingsview.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/settings.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/sector.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/views/mapview.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/site.js",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/D/volatile/1.txt",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/D/Thomas/Documents/GitHub/geolocviz/styles/flexlayout.css",
+		"/D/Thomas/Documents/GitHub/geolocviz/templates/siteinfo.hbs",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/lib/modernizr.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/scratchpad.js",
+		"/C/Users/thomas.stache/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/lib/hbs/hbs.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/templates/resultinfo.hbs",
+		"/D/Thomas/Documents/GitHub/geolocviz/templates/statisticsinfo.hbs",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/FileLoader.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/CellrefParser.js",
+		"/D/Dev/ActixOne/Branches/copyRoles-6.1.2.bat",
+		"/D/Dev/ActixOne/Branches/useDB-6.1.2.bat",
+		"/D/WiNeS Sample Data/201207 GeoLocViz/CellRefs/cellrefs-VfUK.txt",
+		"/D/WiNeS Sample Data/201207 GeoLocViz/UK.Vodafone.GPEH.London/A20100826.0830+0100-0845+0100_RNCKS1_IMSI_234159016499499.axf",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/app-main.js",
+		"/D/Dev/ActixOne/Branches/useRoles-6.1.2.bat",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/axfresult.js",
+		"/D/WiNeS Sample Data/201207 GeoLocViz/CellRefs/cellrefs-maxis.txt",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/views/infoview.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/styles.css",
+		"/D/Thomas/Documents/GitHub/geolocviz/templates/legend.hbs",
+		"/D/WiNeS Sample Data/201207 GeoLocViz/CellRefs/cellrefs_Amsterdam.txt",
+		"/D/WiNeS Sample Data/201207 GeoLocViz/A20100826.0830+0100-0845+0100_RNCKS1_IMSI_234159016499499.axf",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/views/legendview.js",
+		"/D/Dev/ActixOne/Branches/ActixOne_6.1.2/ActixOne_6.1.2.sublime-project",
+		"/D/Dev/ActixOne/a1-6.1.2.bat",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/appstate.js",
+		"/C/Users/thomas.stache/AppData/Local/Temp/p4v/dd-pcci52510_dd-srv2_1667/depot/NSM/Branches/ActixOne_6.1/Src/Client/Modules/GeotaggingAdmin/src/com/actix/geotaggingadmin/view/UserSettingsViewPM#1.as",
+		"/D/Dev/ActixOne/Branches/oracle-ds-6.1-lonAnac-Dev4(Nightly).xml",
+		"/D/volatile/TFS 23756 - Geotagging Admin Backend.txt",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/overlay.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/collections/overlays.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/statistics.js",
+		"/D/WiNeS Sample Data/201207 GeoLocViz/CellRefs/cellrefs.txt",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/AccuracyResult.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/LocationCandidate.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/session.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/collections/sectors.js",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Thomas/Documents/GitHub/glv-backbone.sublime-project",
+		"/d/Dev/ActixOne/Branches/CompositePlots/Src/Platform/Daemons/ProcessingNode/version.h",
+		"/D/Dev/ActixOne/Branches/CompositePlots/Src/Platform/Daemons/ProcessingNode/version.txt",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/collections/sites.js",
+		"/d/Dev/ActixOne/Branches/ActixOne_6.1/Src/Client/Modules/GeotaggingAdmin/WebContent/WEB-INF/web.xml",
+		"/D/Thomas/Documents/GitHub/buildglv.bat",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/app.build.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/main.js",
+		"/D/Thomas/Documents/GitHub/r.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/lib/underscore.js",
+		"/D/Thomas/Documents/GitHub/geolocviz-build/js/main.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/index.html",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/views/appview.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/app.build.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/views/sessioninfoview.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/templates/sessioninfo.hbs",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/styleLoader.js",
+		"/D/Thomas/Documents/GitHub/geolocviz/templates/accuracyresultinfo.hbs",
+		"/D/Thomas/Documents/GitHub/geolocviz/js/models/baseresult.js",
+		"/D/Thomas/Documents/GitHub/playground/js/FileLoader.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/axfresult.js",
+		"/D/Thomas/Documents/GitHub/playground/templates/statisticsinfo.hbs",
+		"/D/Thomas/Documents/GitHub/playground/styles.css",
+		"/D/Thomas/Documents/GitHub/playground/js/views/sessioninfoview.js",
+		"/D/Thomas/Documents/GitHub/playground/js/views/mapview.js",
+		"/D/Thomas/Documents/GitHub/playground/templates/sessioninfo.hbs",
+		"/D/Thomas/Documents/GitHub/playground/js/models/statistics.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/appstate.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/filestatistics.js",
+		"/D/Thomas/Documents/GitHub/playground/templates/legend.hbs",
+		"/D/Thomas/Documents/GitHub/playground/templates/accuracyresultinfo.hbs",
+		"/D/Thomas/Documents/GitHub/playground/js/views/appview.js",
+		"/D/Thomas/Documents/GitHub/playground/js/views/legendview.js",
+		"/D/Thomas/Documents/GitHub/playground/js/views/settingsview.js",
+		"/D/Thomas/Documents/GitHub/playground/js/main.js",
+		"/D/Thomas/Documents/GitHub/playground/templates/legend.handlebars",
+		"/D/Thomas/Documents/GitHub/playground/templates/legend.tpl",
+		"/D/Thomas/Documents/GitHub/playground/js/models/overlay.js",
+		"/D/Thomas/Documents/GitHub/playground/js/views/SessionInfoView.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/settings.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/AccuracyResult.js",
+		"/D/Thomas/Documents/GitHub/playground/js/collections/overlays.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/marker.js",
+		"/D/Thomas/Documents/GitHub/playground/js/collections/markers.js",
+		"/D/Thomas/Documents/GitHub/playground/playground.js",
+		"/D/Thomas/Documents/GitHub/playground/js/views/options.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/session.js",
+		"/D/Thomas/Documents/GitHub/playground/js/models/LocationCandidate.js",
+		"/D/Thomas/Documents/GitHub/playground/js/collections/sessions.js",
+		"/C/Users/thomas.stache/AppData/Local/Temp/p4v/dd-pcci52510_dd-srv2_1667/depot/NSM/Branches/ActixOne_7.0/Src/Platform/build#1.xml",
+		"/C/jboss/6.1/server/default/deploy/ActixOne/fsjca-ds.xml",
+		"/D/Thomas/Documents/GitHub/playground/js/collections/results.js",
+		"/D/Thomas/Documents/GitHub/playground/js/collections/locationcandidates.js",
+		"/D/Thomas/Documents/GitHub/playground.sublime-project",
+		"/D/Dev/ActixOne/MyScripts/pyHttpServer.cmd",
+		"/D/Thomas/Documents/GitHub/serve.bat",
+		"/D/Thomas/Profiles/Postbox/extensions/{e2fda1a4-762b-4020-b5ad-a41df1933103}/chrome/lightning/content/lightning/messenger-overlay-sidebar.xul",
+		"/D/Thomas/Documents/GitHub/localtodos/index.html",
+		"/D/Thomas/Documents/GitHub/localtodos/javascripts/todos.js",
+		"/D/Thomas/Documents/GitHub/Local Todos.sublime-project",
+		"/D/Thomas/Documents/GitHub/backbone/examples/todos/todos.css",
+		"/D/Thomas/Documents/GitHub/localtodos/serve.bat",
+		"/D/Dev/ActixOne/MyScripts/goviz.bat",
+		"/D/Dev/ActixOne/TestData/GeotaggingTools/GeoLocViz/js/layerVisibility.js",
+		"/D/Dev/ActixOne/TestData/Geotagging/GeoLocViz.sublime-project",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/Dev/ActixOne/TestData/Geotagging/GeoLocViz/js/layerVisibility.js",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/BlackboardTS.tmTheme",
+		"/C/Users/thomas.stache/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Blackboard.tmTheme",
+		"/D/volatile/2.txt",
+		"/D/Dev/ActixOne/MyScripts/vizdev.bat"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"D:\\Thomas\\Documents\\GitHub\\localtodos",
+			"D:\\Dev\\ActixOne\\TestData\\Geotagging\\GeoLocViz",
+			"D:\\Dev\\Tests\\geolocviz",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\DatabaseSchema\\ActixOne\\TechPacks",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\modules\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\clientcore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\PredictionsAdmin",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform\\Services",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\Ranxexport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\TaskManagement\\src\\com\\actix\\taskManagement",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\DatabaseSchema\\ActixOne\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\DatabaseSchema\\ActixOne\\TechPacks",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\PredictionSettings",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\PredictionsAdmin",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform\\Services",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\map",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\map\\layers",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src\\com",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform\\Services",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\attributeChart",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform\\Services",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\CompositePlots",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\PredictionSettings",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\PredictionsAdmin",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\attributeChart",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport\\src\\com",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform\\Services\\Model",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src,*.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src,build.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src;*.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src;build.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Products\\ActixOne",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\RANXExport",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\attributeChart",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\attributeChart\\tableClasses",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\network",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\map",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\CompositePlots\\src\\com\\actix\\compositeplots",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\attributeChart\\tableClasses",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\CompositePlots\\src\\com\\actix\\compositeplots",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\CompositePlots",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix\\attributeChart\\tableClasses",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\BuildScripts",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules,*.mxml",
+			"D:\\Dev\\ActixOne\\MyScripts",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client,*.css",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\Stubs",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\CreateModule",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Platform\\Services\\Model",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Build\\auto-generated\\client-ejb-proxies",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\CompositePlots\\src\\com\\actix\\compositeplots",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\,*.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\;*.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src\\com\\actix",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\ClientCore\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\src\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\src\\*.xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\src\\*xml",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\src",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\",
+			"D:\\Dev\\ActixOne\\Branches\\CompositePlots\\Src\\Client\\Modules\\AdminStubs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"-moz",
+			"drawSectorsForSite",
+			"\n				",
+			"drawSectorsForSite",
+			"OverlayList",
+			"view",
+			"createLine",
+			"Polyline(",
+			"Polyline",
+			"each(",
+			"registerOverlay",
+			"drawSectors",
+			"Symbol",
+			"isValidLatLng",
+			"getSectors",
+			"box",
+			"css",
+			"-flow",
+			"flow",
+			"settings",
+			".flexbox .mainContent",
+			"settings",
+			"render",
+			"mStyle",
+			"flex",
+			"flexWrap",
+			"flexbox",
+			"getTooltipText",
+			"event.",
+			"file_api",
+			"global",
+			"LAC",
+			"SectorAttributes",
+			"SiteIDForCell",
+			"controllerId",
+			"getAttr",
+			"record",
+			"SECTOR_ATTRIBUTES",
+			"SITE_ATTRIBUTES",
+			"TODO",
+			"record",
+			",",
+			"HANDLE",
+			"getAttribute",
+			"IDX",
+			"record",
+			"IDX",
+			",",
+			"sectorId",
+			"SECTOR_FIELDS_LTE",
+			"SiteIDForCell",
+			"SECTOR_FIELDS_GSM",
+			",",
+			"requiredFields",
+			"fieldIndexMap",
+			"SiteList",
+			"siteList",
+			"Site",
+			"parseNumber",
+			"parseFloat",
+			"parseNumber",
+			"SiteList",
+			"content",
+			"controllerId",
+			"NaN",
+			"probIndoor",
+			"siteSelected",
+			"highlightSite",
+			"highlight",
+			"optional",
+			"registerOverlay",
+			"site:selected",
+			"focusSession",
+			"*****",
+			"**********",
+			"onSiteClick",
+			"center",
+			"getMarkerImage",
+			"onSiteClick",
+			"siteSelected",
+			",\n",
+			"new google.maps.Marker(",
+			"Z_Index",
+			"log",
+			"this.bounds = new google.maps.LatLngBounds();",
+			"deleteAllOverlays",
+			".bounds",
+			"drawNetwork",
+			"resultSelected",
+			"marker",
+			".metaData",
+			"addListener",
+			"to the map",
+			"var marker = new google.maps.Marker({",
+			"drawMarkers",
+			"drawMarkers_",
+			"drawMarkers",
+			"category",
+			"showMarkersForCategory",
+			"registerOverlay",
+			"showMarkersForCategory",
+			"category",
+			"letter",
+			"colorDef",
+			"createMarker",
+			"GEOLOCMARKER",
+			"showOverlaysForType",
+			"lineOverlays",
+			"showOverlaysForType",
+			"showOverlay",
+			"onSettingsChanged",
+			"evt.currentTarget",
+			",",
+			"Geo",
+			"ul.legend li",
+			"sector",
+			"fileForm",
+			"clearData",
+			"tool",
+			"fileForm",
+			"parseNumber",
+			"parseFloat",
+			"type",
+			"this.bounds",
+			"==",
+			"letter",
+			"MarkerImage",
+			"AxfMarkerImages"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".legendItem",
+			"MarkerImages",
+			"AxfMarkerImages",
+			"getMarkerImage",
+			"getAxfMarkerImage",
+			"onSettingsChanged",
+			"WCDMA",
+			"onFileReadComplete",
+			"onFileRead",
+			"onFileLoaded",
+			"InfoView",
+			"SessionInfoView",
+			"this.getIndex()",
+			"$tbSessionToolbar",
+			"updateSessionControls",
+			"updateControls",
+			"showOverlay",
+			"showMarker",
+			"deleteAllOverlays",
+			"clearAllOverlays",
+			"OverlayList",
+			"overlays",
+			"fileInput",
+			"bestLoc.get('",
+			"sample.get('",
+			"rdr",
+			"MarkerColor",
+			"IDX",
+			"COLS",
+			"msgId",
+			" ref",
+			"IX_",
+			" | ",
+			"\")",
+			"]')",
+			"$(\"#",
+			".prop(\"checked\")",
+			"$(\"#",
+			"_updateLineLayer",
+			"refLayerActive",
+			"_showGeoLayers",
+			"tableDataView",
+			"record"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 11352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": false,
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"es5": true,
+								"evil": true,
+								"indent": 1,
+								"jquery": true,
+								"predef":
+								[
+									"define",
+									"google"
+								],
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4454.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/custom.css",
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": false,
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"es5": true,
+								"evil": true,
+								"indent": 1,
+								"jquery": true,
+								"predef":
+								[
+									"define",
+									"google"
+								],
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"js/FileLoader.js"
+			],
+			[
+				"map",
+				"js/views/mapview.js"
+			],
+			[
+				"sit",
+				"js/models/site.js"
+			],
+			[
+				"mapv",
+				"js/views/mapview.js"
+			],
+			[
+				"app",
+				"js/models/appstate.js"
+			],
+			[
+				"appv",
+				"js/views/appview.js"
+			],
+			[
+				"session",
+				"js/views/sessioninfoview.js"
+			],
+			[
+				"axfresult",
+				"js/models/axfresult.js"
+			],
+			[
+				"eclipse.deployer.xml",
+				"Src/BuildScripts/eclipse.deployer.xml"
+			],
+			[
+				"predictionsn",
+				"Src/Platform/Services/PredictionsService/src/com/actix/predictions/ran/PredictionsNetworkModel.java"
+			],
+			[
+				"settingswindowlauncher",
+				"Src/Client/Modules/PredictionSettings/src/com/actix/predictionSettings/cellSettings/SettingsWindowLauncher.as"
+			],
+			[
+				"predi",
+				"Src/Client/Modules/PredictionSettings/src/PredictionSettings.mxml"
+			],
+			[
+				"pred",
+				"Src/Client/Modules/PredictionsAdmin/src/PredictionsAdmin.mxml"
+			],
+			[
+				"compo",
+				"Src/Client/Modules/CompositePlots/src/CompositePlots.mxml"
+			],
+			[
+				"anspr",
+				"Src/Client/ClientCore/src/com/actix/controls/sprites/AnimatedSprite.as"
+			],
+			[
+				"taskm",
+				"Src/Client/Modules/TaskManagement/src/TaskManagement.mxml"
+			],
+			[
+				"period",
+				"Src/Platform/General/src/com/actix/general/Period.java"
+			],
+			[
+				"ranxco",
+				"Src/Client/Modules/RANXExport/src/com/actix/ranx/control/RANXController.as"
+			],
+			[
+				"cadvalue",
+				"Src/Platform/Services/Data/src/com/actix/data/Value.java"
+			],
+			[
+				"busi",
+				"Src/Client/Modules/RANXExport/src/com/actix/ranx/model/BusinessModel.as"
+			],
+			[
+				"secwra",
+				"Src/Client/ClientCore/src/com/actix/antenna/visualisation/SectorWrapper.as"
+			],
+			[
+				"applicationplugins",
+				"Src/Client/ClientCore/src/com/actix/plugin/ApplicationPlugins.as"
+			],
+			[
+				"pointsofinterest",
+				"Src/Client/Modules/PointsOfInterest/src/PointsOfInterest.mxml"
+			],
+			[
+				"exw",
+				"Src/Client/Modules/RANXExport/src/com/actix/ranx/view/ExportWindow.mxml"
+			],
+			[
+				"imodel",
+				"Src/Platform/Services/Model/.project"
+			],
+			[
+				"ranx",
+				"Src/Client/Modules/RANXExport/src/com/actix/ranx/control/RANXController.as"
+			],
+			[
+				"sccbui",
+				"Src/Client/ClientCore/build.xml"
+			],
+			[
+				"slc",
+				"Src/Client/Modules/RANXExport/src/com/actix/ranx/view/SectorListContainer.mxml"
+			],
+			[
+				"covcal",
+				"Src/Platform/Services/Coverages/src/com/actix/coverages/CoverageCalculator.java"
+			],
+			[
+				"mac",
+				"Src/BuildScripts/macros.xml"
+			],
+			[
+				"inpo",
+				"Src/Client/Modules/InPoint/src/InPoint.mxml"
+			],
+			[
+				"eclipse.",
+				"Src/BuildScripts/eclipse.deployer.xml"
+			],
+			[
+				"j2as",
+				"Src/BuildTools/ClientCodeGenerator/Generator/src/codegenerator/java2as.py"
+			],
+			[
+				"sonacp/bu",
+				"Src/Platform/Services/SONACP/build.xml"
+			],
+			[
+				"network.",
+				"Src/Client/ClientCore/src/com/actix/network/Network.as"
+			],
+			[
+				"mpd.xm",
+				"BuildScripts/macros.pkg-deployer.xml"
+			],
+			[
+				"cswp",
+				"Client/Modules/PredictionSettings/src/com/actix/predictionSettings/cellSettings/view/CellSettingsWindowPM.as"
+			],
+			[
+				"csw",
+				"Client/Modules/PredictionSettings/src/com/actix/predictionSettings/cellSettings/view/CellSettingsWindow.mxml"
+			],
+			[
+				"networklay",
+				"Client/ClientCore/src/com/actix/network/NetworkLayer.as"
+			],
+			[
+				"model.j",
+				"Platform/Services/DataExtraction/src/com/actix/dataextraction/Model.java"
+			],
+			[
+				"networkele",
+				"Client/ClientCore/src/com/actix/network/NetworkElement.as"
+			],
+			[
+				"services/predictionsservice/",
+				"Platform/Services/PredictionsService/.classpath"
+			],
+			[
+				"ant.b",
+				"BuildScripts/3rdParty/ant/bin/ant.bat"
+			],
+			[
+				"roles",
+				"BuildScripts/roles_generator.py"
+			],
+			[
+				"adminst",
+				"Client/Modules/AdminStubs/src/AdminStubs.mxml"
+			],
+			[
+				"predic",
+				"Client/Modules/PredictionsAdmin/src/PredictionsAdmin.mxml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Dev/ActixOne/Branches/ActixOne_6.1.2/ActixOne_6.1.2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true
+}

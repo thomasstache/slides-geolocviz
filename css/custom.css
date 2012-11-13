@@ -1,0 +1,24 @@
+/**
+ * Custom presentation styles
+ * 2012 Thomas Stache
+ */
+
+/* styling for definition lists: don't center text, differentiate topic and data */
+dl {
+	text-align: left;
+}
+.reveal dt {
+	font-style: italic;
+}
+.reveal dd {
+	margin-left: 1em;
+}
+
+/* place images and text side-by-side */
+.left {
+	float: left; width: 30%;
+}
+
+.right {
+	float: right; width: 65%;
+}

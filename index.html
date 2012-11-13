@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Geolocation Visualization - GeoLocViz</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+		<link rel="stylesheet" href="css/custom.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+		<!-- Any section element inside of this container is displayed as a slide -->
+		<div class="slides">
+			<section>
+				<section>
+					<h1>geolocviz</h1>
+					<p>What do you need to know?</p>
+				</section>
+				<section>
+					<h1>geolocviz</h1>
+					<p>What do you <i>want</i> to know?</p>
+				</section>
+			</section>
+
+			<section>
+				<h2>Agenda</h2>
+				<ul>
+					<li>Application Overview</li>
+					<li>User Interface</li>
+					<li>Architecture and development</li>
+				</ul>
+
+				<!-- <aside class="notes">
+					Test
+				</aside> -->
+			</section>
+
+			<section>
+				<section>
+					<h2>Application Overview</h2>
+					<ul>
+						<li>Purpose</li>
+						<li>History</li>
+						<li>Current incarnation</li>
+					</ul>
+				</section>
+				<section>
+					<h2>Purpose</h2>
+					<blockquote>A modern web app to support development of the Actixone geolocation feature.</blockquote>
+				</section>
+				<section>
+					<h2>History</h2>
+					<dl>
+						<dt>March-May</dt>
+						<dd>Initial geotagging accuracy test visualization webapp by Carsten Jandura</dd>
+						<dt>June</dt>
+						<dd>Development taken over by RnD team to extend feature set (e.g. accuracy test file format v3)</dd>
+						<dt>July</dt>
+						<dd>New features (e.g. session highlighting, marker legend, extended .axf files), continuing refactoring and modularization</dd>
+						<dd class="fragment">Surprise: location candidates for a single calltrace sample! 1st data model rewrite.</dd>
+						<dd class="fragment">Separate result files for different algorithms expose data model design problem:
+							Connection between reference and result markers broken.</dd>
+					</dl>
+				</section>
+				<section>
+					<h2>Prototyping using a "real" MVC library</h2>
+					<p>Use a well known and maintained library as foundation instead of rolling my own.</p>
+					<p>Whip up a data model, strap in file parsing code from GeoLocViz. Display results in a big table.</p>
+					<p class="fragment roll-in">Success!</p>
+				</section>
+			</section>
+
+			<section>
+				<h2>User Interface</h2>
+				<ul>
+					<li>User Guide</li>
+					<li>Features</li>
+					<li>Limitations</li>
+				</ul>
+			</section>
+			<section>
+				<section>
+					<h2>User Guide</h2>
+					<a href="http://wines/glv/preview/" class="image"><img src="images/GeoLocVizV4.png"></a>
+					<p>AXF results and network from CellRef</p>
+				</section>
+				<section>
+					<h2>User Guide</h2>
+					<img src="images/GeoLocVizV4_TB.png">
+					<p>Toolbar with file selection input</p>
+				</section>
+				<section>
+					<h2>User Guide</h2>
+					<img src="images/GeoLocVizV4_Settings.png">
+					<p>Settings</p>
+				</section>
+				<section>
+					<h2>User Guide</h2>
+					<img src="images/GeoLocVizV4_Map.png">
+					<p>Map View</p>
+				</section>
+				<section>
+					<h2>User Guide</h2>
+					<img src="images/GeoLocVizV4_Info.png">
+					<p>Info View</p>
+				</section>
+			</section>
+			<section>
+				<section>
+					<img class="left" src="images/InfoView_Session.png">
+
+					<div class="right">
+						<h2>Info View</h2>
+						<h3>Session Info</h3>
+
+						<ul>
+							<li>if session IDs available (for .distance files and extended .axf files)</li>
+							<li>Session ID</li>
+							<li>Number of records</li>
+							<li>Focus/Unfocus Session</li>
+						</ul>
+					</div>
+				</section>
+				<section>
+					<img class="left" src="images/InfoView_Result.png">
+
+					<div class="right">
+						<h2>Info View</h2>
+						<h3>Result Info</h3>
+
+						<ul>
+							<li>result metadata</li>
+							<li>distance for accuracy results</li>
+							<li>Buttons for forward/backward navigation through session</li>
+						</ul>
+					</div>
+				</section>
+				<section>
+					<img class="left" src="images/InfoView_Statistics.png">
+
+					<div class="right">
+						<h2>Info View</h2>
+						<h3>Statistics Info</h3>
+
+						<ul>
+							<li># of sessions</li>
+							<li># of results</li>
+							<li># of sites and sectors</li>
+							<li>list of loaded files</li>
+						</ul>
+					</div>
+				</section>
+			</section>
+			<section>
+				<h2>Settings</h2>
+				<ul>
+					<li><q>Connect markers with reference</q>:
+						for accuracy results, thin red line between reference location and selected result</li>
+					<li><q>Connect markers in sessions</q>:
+						blue and purple lines between results with the same session ID</li>
+				</ul>
+			</section>
+
+			<section>
+				<section>
+					<h2>File formats</h2>
+					<ul>
+						<li>Accuracy result files (.distance)</li>
+						<li>AXF files (.axf)</li>
+						<li>CellRef files (.txt)</li>
+					</ul>
+				</section>
+				<section>
+					<h2>Accuracy Results</h2>
+					<ul>
+						<li>ActixOne 6.1+ version with 11 columns</li>
+					</ul>
+					<pre>
+/**
+ * #FileId | MessNum | DTLatitude | ... | IndoorProb | SessionId
+ */
+					</pre>
+				</section>
+				<section>
+					<h2>AXF Results</h2>
+					<ul>
+						<li>ActixOne 6.0 version with 10 columns</li>
+						<li>ActixOne 6.1+ version with 11 columns</li>
+						<li>Extended version with 14 columns</li>
+					</ul>
+					<pre>
+/**
+ * 6.0
+ * #Message Number,Time,Latitude,Longitude, ... MeasurementReport
+ */
+/**
+ * 6.1 (Geotagging 3)
+ * #Message Number,Time ... MeasurementReport,Indoor_Probability
+ */
+					</pre>
+				</section>
+				<section>
+					<h2>Cellref Files</h2>
+					<ul>
+						<li>file name must start with "cellrefs"</li>
+						<li>extension must be ".txt"</li>
+						<li>new: dynamic detection of attribute columns</li>
+					</ul>
+				</section>
+			</section>
+
+			<section>
+				<section>
+					<h2>More about features</h2>
+				</section>
+				<section>
+					<h2>Session visualization</h2>
+					<img src="images/session.png">
+					<p>Double-click a result marker to highlight its whole session</p>
+				</section>
+				<section>
+					<h2>Filter by Marker Type</h2>
+					<img src="images/MarkerFilter.png">
+					<p>use legend items to turn individual result types and categories (mobile/stationary/indoor) on and off</p>
+				</section>
+			</section>
+
+			<section>
+				<h2>Building a webapp</h2>
+				<p>Technologies:</p>
+				<ul>
+					<li class="fragment">HTML 5</li>
+					<li class="fragment">Javascript</li>
+					<li class="fragment">CSS3</li>
+				</ul>
+			</section>
+			<section>
+				<section>
+					<h2>Building foundations</h2>
+					<ul>
+						<li><a href="http://backbonejs.org/">Backbone.js</a> for MVC</li>
+						<li><a href="http://jquery.org/">jQuery</a> for DOM manipulation</li>
+						<li><a href="http://requirejs.org/">RequireJS</a> for dependency management</li>
+						<li><a href="http://handlebarsjs.com/">Handlebars</a> for HTML templating</li>
+						<li><a href="http://modernizr.com/">Modernizr</a> for feature detection in browsers</li>
+					</ul>
+				</section>
+			</section>
+
+			<section>
+				<section>
+					<h2>Resources</h2>
+					<p>What did I find valuable to read and watch?</p>
+				</section>
+				<section>
+					<h3>Google Maps</h3>
+					<ul>
+						<li><a href="https://developers.google.com/maps/documentation/javascript/">Google Maps API Documentation</a></li>
+					</ul>
+
+					<br><br>
+					<p>Video time!</p>
+					<ul>
+						<li><a href="http://www.youtube.com/watch?v=e0K805PeOfI">Google I/O 2012 - What's New in Google Maps</a></li>
+						<li><a href="http://www.youtube.com/watch?v=5nRNbKPiSQ8">Google I/O 2012 - Spatial Data Visualization</a></li>
+						<li><a href="http://www.youtube.com/watch?v=XEoVkt07cSQ">Google I/O 2012 - A Master Class in Map Styling</a> </li>
+						<li><a href="http://www.youtube.com/watch?v=j9ZO4mTDAtM">Google I/O - Best Practices for Maps API Developers</a></li>
+					</ul>
+				</section>
+				<section>
+					<h3>Web Applications / HTML5 / CSS3</h3>
+					<ul>
+						<li><a href="http://todomvc.com/">TodoMVC - Helping you select an MV* framework</a></li>
+						<li>Slides: <a href="http://alexsexton.com/talks/backboneconf2012/">MVC Module Magic | Alex Sexton</a></li>
+						<li><a href="http://addyosmani.com/writing-modular-js/">Writing Modular JavaScript With AMD, CommonJS + ES Harmony</a></li>
+						<li>Video: <a href="http://www.youtube.com/watch?v=X_ek1wSe66o">Google I/O 2012 - The Web can do that!?</a></li>
+					</ul>
+
+					<h3 style="margin-top: 1em">Backbone</h3>
+					<ul>
+						<li><a href="http://www.natehunzaker.com/2011/11/02/learning-backbonejs-chapter-1-a-quick-overview/">Learning Backbone.js: Tweets in Google Maps</a></li>
+						<li><a href="http://addyosmani.github.com/backbone-fundamentals/">Developing Backbone.js Applications | Addy Osmani</a></li>
+						<li><a href="http://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple/">Rendering Views in Backbone.js Isn't Always Simple</a></li>
+						<li>The "Local Todos" example in the <a href="http://backbonejs.org/">Backbone</a> download package</li>
+					</ul>
+				</section>
+			</section>
+
+			<section>
+				<h1>Fin</h1>
+				<h3>Questions?</h3>
+
+				<h3 class="fragment">Thank you!</h3>
+			</section>
+		</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
